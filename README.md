@@ -3,15 +3,15 @@
 
 
 ### About me
-I've done Software Quality Assurance for over 5 years and have been the cause of at least 1 confirmed tear shed from a developer.
+5️⃣ years in Software Quality Assurance
 
-I've had the luxury of working on projects ranging from [pizza 🍕](littlecaesars.com) to [drones 🚁](riis.com) and quite a bit inbetween 
-courtesy of startups that didn't end up starting up! 
+1️⃣ confirmed developer tear shed on account of bug(s)
 
-Over here you'll generally find some scripts that I use in a day-to-day basis while testing as well as some old projects that I wrote
-to learn something new or briefly test something on a project. 
+🤖 Huge fan of automation w/ [playwright](playwright.io), [jetpack compose](https://developer.android.com/jetpack/compose/testing), and [k6](k6.io)
 
-🤖 If you're doing a lot of Android development, you should definitely check out [sadb](https://github.com/seamus-sloan/sadb)
+🍕 Ask me about working on pizza software
+
+🚁 Ask me about working on drone software
 
 <!--
 **seamus-sloan/seamus-sloan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
