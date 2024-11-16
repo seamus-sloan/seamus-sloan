@@ -3,7 +3,7 @@
 
 
 ### About me
-5️⃣ years in Software Quality Assurance
+6️⃣ years in Software Quality Assurance
 
 1️⃣ confirmed developer tear shed on account of bug(s)
 
