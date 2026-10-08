@@ -1,4 +1,7 @@
-### Hey! I'm Seamus! 👋
+> [!TIP]
+> Check out [Omnibus](https://github.com/omnibus-library/omnibus)!
+
+# Hey! I'm Seamus! 👋
 > Not sure how to pronounce that? No worries: [🗣️](https://www.youtube.com/watch?v=Rk8JSSL6nOg&ab_channel=PronunciationGuide)
 
 
@@ -8,6 +11,8 @@
 1️⃣ confirmed developer tear shed on account of bug(s)
 
 🤖 Huge fan of automation w/ [playwright](playwright.io), [jetpack compose](https://developer.android.com/jetpack/compose/testing), and [k6](k6.io)
+
+⬅️ Shifting left because always being right is hard
 
 🍕 Ask me about working on pizza software
 
